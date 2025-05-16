@@ -22,9 +22,15 @@
     text-align: center;
 }
 
-.img {
+.img1 {
     max-width: 100%;
     height: auto;
+}
+
+.img2 {
+    max-width: 100%;
+    height: auto;
+    padding-top: 20px;
 }
 
 .link {
