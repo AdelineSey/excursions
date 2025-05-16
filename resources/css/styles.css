@@ -1,6 +1,13 @@
 /* CSS file for styling the HTML file */
 /* Listed in alphabetical order */
 
+.footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
+
 .h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
